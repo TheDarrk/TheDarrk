@@ -32,7 +32,7 @@ I’m passionate about building practical, impactful tech solutions — from sec
 
 ## 🚀 Featured Projects
 
-### 🔐 [StealthCrypt]([https://github.com/ankitverma-official/SecureFile-We](https://github.com/TheDarrk/StealthCrypt)
+### 🔐 [StealthCrypt](https://github.com/TheDarrk/StealthCrypt)
 A web-based encryption & decryption tool that lets users securely upload and decrypt files with a unique key.  
 _React + FastAPI | File Encryption | Live Deployed_
 
