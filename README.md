@@ -1,12 +1,12 @@
-<!-- Add your banner image here -->
-<!-- ![Banner](your-image-link-here) -->
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
+
 
 # 👋 Hi, I'm Ankit Kumar Verma
 
-🎯 Developer | 🔗 Blockchain Enthusiast | 🧠 Tech Explorer | 🇮🇳 India  
+🎯 Full Stack | Software Developer | 🧠 Tech Explorer | 🇮🇳 India, Haryana  
 I’m passionate about building practical, impactful tech solutions — from secure file transfer tools to blockchain-based transparent systems.
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 
 
 ## 🛠️ Tech Stack & Skills
@@ -16,7 +16,7 @@ I’m passionate about building practical, impactful tech solutions — from sec
 - **Core Concepts**: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Error Handling, Debugging, Modular Programming
 
 ### ⚙️ Frameworks & Libraries
-- React.js, FastAPI, Flask, Django, TailwindCSS
+- React.js, FastAPI, Flask, Django, TailwindCSS, Panda, Numpy
 
 ### 🔗 Blockchain Development
 - NEAR Protocol (Rust-based Smart Contracts)
@@ -32,7 +32,7 @@ I’m passionate about building practical, impactful tech solutions — from sec
 
 ## 🚀 Featured Projects
 
-### 🔐 [SecureFile Web](https://github.com/ankitverma-official/SecureFile-Web)
+### 🔐 [StealthCrypt]([https://github.com/ankitverma-official/SecureFile-We](https://github.com/TheDarrk/StealthCrypt)
 A web-based encryption & decryption tool that lets users securely upload and decrypt files with a unique key.  
 _React + FastAPI | File Encryption | Live Deployed_
 
@@ -40,20 +40,12 @@ _React + FastAPI | File Encryption | Live Deployed_
 A blockchain-based transparent donation system using NEAR Protocol with smart contracts and multisig wallet governance.  
 _Rust Smart Contracts | NEAR | Real-time Fund Tracking_
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitverma-official&show_icons=true&theme=radical" alt="Ankit's GitHub stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ankitverma-official&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-
----
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ankit-kumar-verma)
-- [GitHub](https://github.com/ankitverma-official)
-- [Email](mailto:ankitverma.dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ankit-verma-319a30224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [GitHub](https://github.com/TheDarrk)
+- [Email](mailto:akumarverma2822@gmail.com)
 
 ---
 
