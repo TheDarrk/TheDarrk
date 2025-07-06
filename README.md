@@ -36,7 +36,7 @@ I’m passionate about building practical, impactful tech solutions — from sec
 A web-based encryption & decryption tool that lets users securely upload and decrypt files with a unique key.  
 _React + FastAPI | File Encryption | Live Deployed_
 
-### 🧬 [DonarChain](https://github.com/ankitverma-official/DonarChain)
+### 🧬 [DonarChain](https://test.near.social/donarchain39.testnet/widget/DonarChain.main)
 A blockchain-based transparent donation system using NEAR Protocol with smart contracts and multisig wallet governance.  
 _Rust Smart Contracts | NEAR | Real-time Fund Tracking_
 
